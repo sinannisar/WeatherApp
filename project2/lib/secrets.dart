@@ -1,0 +1,1 @@
+const openWeatherAPIKey = '2700015129f0203ec112a5a5c43778ce';
